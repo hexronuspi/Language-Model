@@ -12,6 +12,6 @@ To use this script, please follow these steps:
 
 2. **Run the Preprocessing Code:**
 
-   - Open the provided Google Colab notebook [here](https://colab.research.google.com/drive/1QMt-v7VDZCThTWZoQ9Gee8aY-bVssLPA?usp=sharing).
+   - Google Colab notebook is provided [here](https://colab.research.google.com/drive/1QMt-v7VDZCThTWZoQ9Gee8aY-bVssLPA?usp=sharing).
 
    - Follow the instructions in the notebook to execute the preprocessing code.
