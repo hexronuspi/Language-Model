@@ -1,3 +1,5 @@
+!wget https://github.com/hexronuspi/mini-gpt/blob/main/raw/fickr30/flickr30.csv
+
 import os
 import zipfile
 
