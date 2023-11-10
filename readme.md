@@ -1,1 +1,1 @@
-My first attempt in creating a GPT from scratch.
+My first attempt in creating a GPT.
