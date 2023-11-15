@@ -1,5 +1,6 @@
 My first attempt in creating a GPT.
 
+Note: This is heavily inspired by Andrej Karpathy's Makemore series and his works.
 
 ```Ongoing Work```
 
