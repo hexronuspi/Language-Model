@@ -66,7 +66,9 @@ def estimate_loss():
 
 class Head(nn.Module):
     """ one head of self-attention """
-
+    '''
+    Not required
+    '''
     def __init__(self, head_size):
         super().__init__()
         self.key = nn.Linear(n_embd, head_size, bias=False)
@@ -94,7 +96,9 @@ class Head(nn.Module):
 
 class MultiHeadAttention(nn.Module):
     """ multiple heads of self-attention in parallel """
-
+    '''
+    Not required
+    '''
     def __init__(self, num_heads, head_size):
         super().__init__()
         self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
@@ -131,7 +135,9 @@ class FeedFoward(nn.Module):
 
 class Block(nn.Module):
     """ Transformer block: communication followed by computation """
-
+    '''
+    Not required
+    '''
     def __init__(self, n_embd, n_head):
         # n_embd: embedding dimension, n_head: the number of heads we'd like
         super().__init__()
